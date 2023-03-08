@@ -6,14 +6,15 @@ Semester 4 - B.Tech Computer Science Engineering , CUSAT.
 
 | Code |  Subject | |
 |:--|:---:|:---:|
-| 19-200-0301 | Linear Algebra and Transform Techniques  | **LATT**
-| 19-202-0302| Logic Design| **LD**
-| 19-202-0303 | Discrete Computational Structures|**DCS**
-| 19-202-0304 | Object Oriented Programming|**OOP**
-| 19-202-0305 | Principles of Programming Languages|**PPL**
-| 19-202-0306| Data and Computer Communication |**DCC**
-| 19-202-0307 | Digital Electronics Laboratory|**DE LAB**
-| 19-202-0308 | [Object Oriented Programming Laboratory]()|**OOP LAB**
+| 19-200-0401 | Complex Variables and Partial Differential Equations  | **CVPDE** (at this point just call it MATHS)
+| 19-202-0402| Microprocessors| **MP**
+| 19-202-0403 | Computer Architecture and Organization|**CAO**
+| 19-202-0404 | Automata Languages and Computations|**ALC**
+| 19-202-0405 | Data Structures and Algorithms|**DSA**
+| 19-202-0406| Database Management Systems |**DBMS**
+| 19-202-0407 | Universal Human Values|**UHV**
+| 19-202-0408 | [Database Management Systems Laboratory ]()|**OOP LAB**
+| 19-202-0409 | [Data Structures Laboratory]()|**DSA LAB**
 </div>
 
 ## Previous Year Question Papers
