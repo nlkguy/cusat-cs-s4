@@ -30,11 +30,21 @@ Semester 4 - B.Tech Computer Science Engineering , CUSAT.
 
 ## Books
 
+| Subject | Author | Edition | Download 1 | Download 2|
+|:--|:---:|:---:|:---:|:---:|
+| CVPDE-MATHS | Erwin Kreyzig | 10th |||
+| CVPDE-MATHS | Grewal | 42nd |||
+| MICROPROCESSOR | Gaonkar | 6th |||
+| COMP . ORG . ARCH| Carl Hamcher| 6th |||
+| AUTOMATA | Hopcraft | 3rd |||
+| DSA | Lafore | 2nd |||
+| DBMS | Elmasri | 3rd|||
+
 [Kreyzig - Maths - 10E](https://wp.kntu.ac.ir/dfard/ebook/em/Advanced%20Engineering%20Mathematics%2010th%20Edition.pdf)
 
 [Grewal - Maths - 42E](https://ia801706.us.archive.org/20/items/higher-engineering-mathematics-bs-grewal/Higher%20Engineering%20Mathematics%20BS%20Grewal.pdf)
 
-[Microprocessor - Gaonkar](https://www.pdfdrive.com/microprocessor-architecture-programming-and-applications-with-the-8085-d176171206.html)
+[Microprocessor - Gaonkar - 6E](https://www.pdfdrive.com/microprocessor-architecture-programming-and-applications-with-the-8085-d176171206.html)
 
 [Comp Org Arch - Carl Hmacher - 6E](https://doc.lagout.org/science/0_Computer%20Science/8_Electronics%20%26%20Robotics/Magazines/Computer%20Organization%20and%20Embedded%20Systems.pdf)
 
