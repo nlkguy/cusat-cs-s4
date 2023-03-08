@@ -13,10 +13,10 @@ Semester 4 - B.Tech Computer Science Engineering , CUSAT.
 | 19-202-0405 | Data Structures and Algorithms|**DSA**
 | 19-202-0406| Database Management Systems |**DBMS**
 | 19-202-0407 | [Universal Human Values]()|**UHV**
-| 19-202-0408 | [Database Management Systems Laboratory ](/408-dbms-lab/408-dbms-lab.md)|**OOP LAB**
+| 19-202-0408 | [Database Management Systems Laboratory ](/408-dbms-lab/408-dbms-lab.md)|**DBMS LAB**
 | 19-202-0409 | [Data Structures Laboratory](/409-dsa-lab/409-dsa-lab.md)|**DSA LAB**
   
-  <img src="https://imgpile.com/images/h1SSCS.png" width="80%" length="80%">
+  <img src="https://imgpile.com/images/h1SSCS.png">
 
 </div>
 
