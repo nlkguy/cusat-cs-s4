@@ -36,8 +36,7 @@ Semester 4 - B.Tech Computer Science Engineering , CUSAT.
 | CVPDE-MATHS | Grewal | 42nd |[Grewal - Maths - 42E](https://ia801706.us.archive.org/20/items/higher-engineering-mathematics-bs-grewal/Higher%20Engineering%20Mathematics%20BS%20Grewal.pdf)||
 | MICROPROCESSOR | Gaonkar | 6th |[Microprocessor - Gaonkar - 6E](https://www.pdfdrive.com/microprocessor-architecture-programming-and-applications-with-the-8085-d176171206.html)||
 | COMP . ORG . ARCH| Carl Hamcher| 6th |[Comp Org Arch - Carl Hmacher - 6E](https://doc.lagout.org/science/0_Computer%20Science/8_Electronics%20%26%20Robotics/Magazines/Computer%20Organization%20and%20Embedded%20Systems.pdf)||
-| AUTOMATA | Hopcraft | 3rd |[Hopcraft - Automata - 3E](https://e.famnit.upr.si/pluginfile.php/636821/mod_page/content/8/Automata.pdf)
-||
+| AUTOMATA | Hopcraft | 3rd |[Hopcraft - Automata - 3E](https://e.famnit.upr.si/pluginfile.php/636821/mod_page/content/8/Automata.pdf)||
 | DSA | Lafore | 2nd |[Lafore DSA 2E](https://everythingcomputerscience.com/books/schoolboek-data_structures_and_algorithms_in_java.pdf)||
 | DBMS | Elmasri | 3rd|[Elmasri Navathe DBMS 5E](https://people.inf.elte.hu/kiss/DB/fundamentals-of-database-systems.pdf)||
 
