@@ -30,8 +30,11 @@ Semester 4 - B.Tech Computer Science Engineering , CUSAT.
 
 ## Books
 
+<div align="center">  
+  
+
 | Subject | Author | Edition | Download (Web) | Download 2 (Drive) |
-|:--|:---:|:---:|:---:|:---:|
+|:--|:---:|:---:|:---|:---:|
 | CVPDE-MATHS | Erwin Kreyzig | 10th |[Kreyzig - Maths - 10E](https://wp.kntu.ac.ir/dfard/ebook/em/Advanced%20Engineering%20Mathematics%2010th%20Edition.pdf)||
 | CVPDE-MATHS | Grewal | 42nd |[Grewal - Maths - 42E](https://ia801706.us.archive.org/20/items/higher-engineering-mathematics-bs-grewal/Higher%20Engineering%20Mathematics%20BS%20Grewal.pdf)||
 | MICROPROCESSOR | Gaonkar | 6th |[Microprocessor - Gaonkar - 6E](https://www.pdfdrive.com/microprocessor-architecture-programming-and-applications-with-the-8085-d176171206.html)||
@@ -39,4 +42,9 @@ Semester 4 - B.Tech Computer Science Engineering , CUSAT.
 | AUTOMATA | Hopcraft | 3rd |[Hopcraft - Automata - 3E](https://e.famnit.upr.si/pluginfile.php/636821/mod_page/content/8/Automata.pdf)||
 | DSA | Lafore | 2nd |[Lafore DSA 2E](https://everythingcomputerscience.com/books/schoolboek-data_structures_and_algorithms_in_java.pdf)||
 | DBMS | Elmasri | 3rd|[Elmasri Navathe DBMS 5E](https://people.inf.elte.hu/kiss/DB/fundamentals-of-database-systems.pdf)||
+
+
+
+</div>
+
 
