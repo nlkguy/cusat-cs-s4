@@ -1,42 +1,5 @@
 # S4 - Previous Year Question Papers
 
-## **APRIL 2022**
-||||||
-|:---:|:---:|:---:|:---:|:---:|
-|MP|CAO|AUTO|DSA|DBMS|
-
-## **APRIL 2021**
-|||
-|:---:|:---:|
-|CVPDE|MP|
-
-## **APRIL 2020**
-|||
-|:---:|:---:|
-|CAO|DBMS|
-
-## **FEB 2020**
-|||||
-|:---:|:---:|:---:|:---:|
-|CVPDE|MP|AUTO|DSA|
-
-## **APRIL 2019**
-||||||
-|:---:|:---:|:---:|:---:|:---:|
-|CVPDE|MP|CAO|AUTO|DSA|
-
-## **APRIL 2018**
-||||||
-|:---:|:---:|:---:|:---:|:---:|
-|CVPDE|MP|CAO|AUTO|DBMS|
-
-## **April 2017**
-|||||||
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|CVPDE|MP|CAO|AUTO|DSA|DBMS|
-
-
-
 <div align="center">  
   
 | Code |  Subject | |
@@ -53,3 +16,110 @@
   
 
 </div>
+
+## **Question Papers - Yearwise**
+
+### **APRIL 2022**
+||||||
+|:---:|:---:|:---:|:---:|:---:|
+|MP|CAO|AUTO|DSA|DBMS|
+
+### **APRIL 2021**
+|||
+|:---:|:---:|
+|CVPDE|MP|
+
+### **APRIL 2020**
+|||
+|:---:|:---:|
+|CAO|DBMS|
+
+### **FEB 2020**
+|||||
+|:---:|:---:|:---:|:---:|
+|CVPDE|MP|AUTO|DSA|
+
+### **APRIL 2019**
+||||||
+|:---:|:---:|:---:|:---:|:---:|
+|CVPDE|MP|CAO|AUTO|DSA|
+
+### **APRIL 2018**
+||||||
+|:---:|:---:|:---:|:---:|:---:|
+|CVPDE|MP|CAO|AUTO|DBMS|
+
+### **APRIL 2017**
+|||||||
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|CVPDE|MP|CAO|AUTO|DSA|DBMS|
+
+
+
+## **Question Papers - Subjectwise**
+
+### 401 - CVPDE
+||
+|:---:|
+|APRIL 2022|
+|APRIL 2021|
+|APRIL 2020|
+|FEB 2020|
+|APRIL 2019|
+|APRIL 2018|
+|APRIL 2017|
+
+### 402 - MP
+||
+|:---:|
+|APRIL 2022|
+|APRIL 2021|
+|APRIL 2020|
+|FEB 2020|
+|APRIL 2019|
+|APRIL 2018|
+|APRIL 2017|
+
+### 403 - CAO
+||
+|:---:|
+|APRIL 2022|
+|APRIL 2021|
+|APRIL 2020|
+|FEB 2020|
+|APRIL 2019|
+|APRIL 2018|
+|APRIL 2017|
+
+### 404 - AUTOMATA
+||
+|:---:|
+|APRIL 2022|
+|APRIL 2021|
+|APRIL 2020|
+|FEB 2020|
+|APRIL 2019|
+|APRIL 2018|
+|APRIL 2017|
+
+### 405 - DSA
+||
+|:---:|
+|APRIL 2022|
+|APRIL 2021|
+|APRIL 2020|
+|FEB 2020|
+|APRIL 2019|
+|APRIL 2018|
+|APRIL 2017|
+
+### 406 - DBMS
+||
+|:---:|
+|APRIL 2022|
+|APRIL 2021|
+|APRIL 2020|
+|FEB 2020|
+|APRIL 2019|
+|APRIL 2018|
+|APRIL 2017|
