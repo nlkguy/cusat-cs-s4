@@ -39,3 +39,14 @@ and Computation, 3 rd Edition.
 4. Peter Linz, An Introduction to Formal Languages and Automata, 4th Edition.
 5. Sivadandam, Theory of Computation, 1 st Edition.
 6. John.C. Martin, Introduction to Languages and the theory of computation, 3rd Edition.
+
+
+## Question Papers
+### 404 - AUTOMATA
+|404 - AUTOMATA|
+|:---:|
+|APRIL 2022|
+|FEB 2020|
+|APRIL 2019|
+|APRIL 2018|
+|APRIL 2017|

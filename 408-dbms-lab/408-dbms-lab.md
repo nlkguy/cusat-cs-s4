@@ -20,3 +20,5 @@ References:
 3. Peter Rob ,Carlos Coronel, Database Systems , Design, Implementation &Management, 8th
 Edition, Thomson CourseTechnology.
 4. Elmasri and Navathe,Fundamentals ofDatabase Systems,7thEdition,Pearson Education, 2015.
+
+## Question Papers

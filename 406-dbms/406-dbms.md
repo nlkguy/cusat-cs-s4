@@ -44,3 +44,13 @@ McGraw Hill, 2002.
 5. Date, C.J., An Introduction to Database Systems, Addison –Wesley.
 6. Margaret H. Dunham, Data Mining - Introductory and advanced topics, Pearson Education,
 2003
+
+
+## Question Papers
+### 406 - DBMS
+|406 - DBMS|
+|:---:|
+|APRIL 2022|
+|APRIL 2020|
+|APRIL 2018|
+|APRIL 2017|

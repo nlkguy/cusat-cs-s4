@@ -25,3 +25,14 @@ of Laplace’s equation over a rectangular region by the method of separation of
 ## References:
 1.Erwin Kreyzig Advanced Engineering Mathematics, 10th Edition,Wiley, 2011.
 2.Grewal, B.S., Higher Engineering Mathematics, 43rd Edition.
+
+## Question Papers
+
+### 401 - CVPDE
+|401 - CVPDE|
+|:---:|
+|APRIL 2021|
+|FEB 2020|
+|APRIL 2019|
+|APRIL 2018|
+|APRIL 2017|
