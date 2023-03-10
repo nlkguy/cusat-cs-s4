@@ -30,7 +30,7 @@ Semester 4 - B.Tech Computer Science Engineering , CUSAT.
 
 ## Books
 
-| Subject | Author | Edition | Download 1 | Download 2|
+| Subject | Author | Edition | Download (Web) | Download 2 (Drive) |
 |:--|:---:|:---:|:---:|:---:|
 | CVPDE-MATHS | Erwin Kreyzig | 10th |[Kreyzig - Maths - 10E](https://wp.kntu.ac.ir/dfard/ebook/em/Advanced%20Engineering%20Mathematics%2010th%20Edition.pdf)||
 | CVPDE-MATHS | Grewal | 42nd |[Grewal - Maths - 42E](https://ia801706.us.archive.org/20/items/higher-engineering-mathematics-bs-grewal/Higher%20Engineering%20Mathematics%20BS%20Grewal.pdf)||
