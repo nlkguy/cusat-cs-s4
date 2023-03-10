@@ -32,26 +32,12 @@ Semester 4 - B.Tech Computer Science Engineering , CUSAT.
 
 | Subject | Author | Edition | Download 1 | Download 2|
 |:--|:---:|:---:|:---:|:---:|
-| CVPDE-MATHS | Erwin Kreyzig | 10th |||
-| CVPDE-MATHS | Grewal | 42nd |||
-| MICROPROCESSOR | Gaonkar | 6th |||
-| COMP . ORG . ARCH| Carl Hamcher| 6th |||
-| AUTOMATA | Hopcraft | 3rd |||
-| DSA | Lafore | 2nd |||
-| DBMS | Elmasri | 3rd|||
+| CVPDE-MATHS | Erwin Kreyzig | 10th |[Kreyzig - Maths - 10E](https://wp.kntu.ac.ir/dfard/ebook/em/Advanced%20Engineering%20Mathematics%2010th%20Edition.pdf)||
+| CVPDE-MATHS | Grewal | 42nd |[Grewal - Maths - 42E](https://ia801706.us.archive.org/20/items/higher-engineering-mathematics-bs-grewal/Higher%20Engineering%20Mathematics%20BS%20Grewal.pdf)||
+| MICROPROCESSOR | Gaonkar | 6th |[Microprocessor - Gaonkar - 6E](https://www.pdfdrive.com/microprocessor-architecture-programming-and-applications-with-the-8085-d176171206.html)||
+| COMP . ORG . ARCH| Carl Hamcher| 6th |[Comp Org Arch - Carl Hmacher - 6E](https://doc.lagout.org/science/0_Computer%20Science/8_Electronics%20%26%20Robotics/Magazines/Computer%20Organization%20and%20Embedded%20Systems.pdf)||
+| AUTOMATA | Hopcraft | 3rd |[Hopcraft - Automata - 3E](https://e.famnit.upr.si/pluginfile.php/636821/mod_page/content/8/Automata.pdf)
+||
+| DSA | Lafore | 2nd |[Lafore DSA 2E](https://everythingcomputerscience.com/books/schoolboek-data_structures_and_algorithms_in_java.pdf)||
+| DBMS | Elmasri | 3rd|[Elmasri Navathe DBMS 5E](https://people.inf.elte.hu/kiss/DB/fundamentals-of-database-systems.pdf)||
 
-[Kreyzig - Maths - 10E](https://wp.kntu.ac.ir/dfard/ebook/em/Advanced%20Engineering%20Mathematics%2010th%20Edition.pdf)
-
-[Grewal - Maths - 42E](https://ia801706.us.archive.org/20/items/higher-engineering-mathematics-bs-grewal/Higher%20Engineering%20Mathematics%20BS%20Grewal.pdf)
-
-[Microprocessor - Gaonkar - 6E](https://www.pdfdrive.com/microprocessor-architecture-programming-and-applications-with-the-8085-d176171206.html)
-
-[Comp Org Arch - Carl Hmacher - 6E](https://doc.lagout.org/science/0_Computer%20Science/8_Electronics%20%26%20Robotics/Magazines/Computer%20Organization%20and%20Embedded%20Systems.pdf)
-
-[Hopcraft - Automata - 3E](https://e.famnit.upr.si/pluginfile.php/636821/mod_page/content/8/Automata.pdf)
-
-[Lafore DSA 2E](https://everythingcomputerscience.com/books/schoolboek-data_structures_and_algorithms_in_java.pdf)
-
-[Elmasri Navathe DBMS 5E](https://people.inf.elte.hu/kiss/DB/fundamentals-of-database-systems.pdf)
-
-[]()
