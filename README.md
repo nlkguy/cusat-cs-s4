@@ -44,6 +44,7 @@ Semester 4 - B.Tech Computer Science Engineering , CUSAT.
 | DBMS | Elmasri | 3rd|[Elmasri Navathe DBMS 5E](https://people.inf.elte.hu/kiss/DB/fundamentals-of-database-systems.pdf)||
 
 
+![Books](https://raw.github.com/nlkguy/cusat-cs-s4/main/books.png)
 
 </div>
 
