@@ -23,7 +23,7 @@ Semester 4 - B.Tech Computer Science Engineering , CUSAT.
 
 ## Previous Year Question Papers
 
-[Available Question Papers](https://github.com/nlkguy/cusat-cs-s4/blob/main/s4-question-papers.md)
+### **[Available Question Papers](https://github.com/nlkguy/cusat-cs-s4/blob/main/s4-question-papers.md)**
 
 
 ## Useful Resources
