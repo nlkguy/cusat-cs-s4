@@ -42,6 +42,7 @@ Semester 4 - B.Tech Computer Science Engineering , CUSAT.
 | COMP . ORG . ARCH| Carl Hamcher| 6th |[Comp Org Arch - Carl Hmacher - 6E](https://doc.lagout.org/science/0_Computer%20Science/8_Electronics%20%26%20Robotics/Magazines/Computer%20Organization%20and%20Embedded%20Systems.pdf)|[View on Github](/books/Computer%20Organization%20and%20Embedded%20Systems%206th%20Edition.pdf)|
 | AUTOMATA | Hopcraft | 3rd |[Hopcraft - Automata - 3E](https://e.famnit.upr.si/pluginfile.php/636821/mod_page/content/8/Automata.pdf)|[View on Github](/books/Automata-hopcraft-3E.pdf)|
 | DSA | Lafore | 2nd |[Lafore DSA 2E](https://everythingcomputerscience.com/books/schoolboek-data_structures_and_algorithms_in_java.pdf)|[View on Github](/books/lafore_data_structures_and_algorithms_in_java_2E.pdf)|
+| DSA | Drozdek | 2nd |[Drozdek DSA 2E](http://160592857366.free.fr/joe/ebooks/ShareData/Data%20Structures%20and%20Algorithms%20in%20Java,%20Second%20Edition%20by%20Adam%20Drozdek.pdf)|[View on Github](http://160592857366.free.fr/joe/ebooks/ShareData/Data%20Structures%20and%20Algorithms%20in%20Java,%20Second%20Edition%20by%20Adam%20Drozdek.pdf)|
 | DBMS | Elmasri | 3rd|[Elmasri Navathe DBMS 5E](https://people.inf.elte.hu/kiss/DB/fundamentals-of-database-systems.pdf)|[View on Github](/books/navathe-fundamentals-of-database-systems-5E.pdf)|
 
 
