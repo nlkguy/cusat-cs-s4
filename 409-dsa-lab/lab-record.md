@@ -1,6 +1,25 @@
 # DSA Lab Record
 ----------------
 
+
+- Intro to Java
+- Basic Stucture of java
+- Advantages of java
+- Java Architecture
+1) Matrix Operations
+  a) Matrix Addition
+  b) Matrix Multiplication
+2) Sorting
+   a) Selection Sort
+   b) Bubble Sort
+3) Searching
+   a) Linear Search
+   b) Binary Search
+4) String Sorting
+   
+
+
+----------------
 ### Intro to Java
 
 
